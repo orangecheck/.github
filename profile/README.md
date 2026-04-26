@@ -6,7 +6,7 @@ Identity, confidentiality, legitimacy, provenance, authority, commitment —
 six composable protocols on Bitcoin. No custody. No token. No issuer. Every
 artifact verifies offline, forever.
 
-A small Bitcoin balance, left unspent for a while, is the cheapest credible
+A small Bitcoin balance, left unspent for a while, is the only credible
 economic signal on the open internet. OrangeCheck is the family of open
 protocols that turns that signal into portable, cryptographic, platform-neutral
 proofs — for sybil resistance, end-to-end encryption, sovereign declarations,
