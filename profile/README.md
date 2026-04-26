@@ -1,8 +1,10 @@
 # OrangeCheck
 
-**A family of Bitcoin-stake primitives for the open web.**
+**Six verbs. One Bitcoin address. The protocol surface of the sovereign web.**
 
-Sats as signal. Six protocols. One ethos.
+Identity, confidentiality, legitimacy, provenance, authority, commitment —
+six composable protocols on Bitcoin. No custody. No token. No issuer. Every
+artifact verifies offline, forever.
 
 A small Bitcoin balance, left unspent for a while, is the cheapest credible
 economic signal on the open internet. OrangeCheck is the family of open
