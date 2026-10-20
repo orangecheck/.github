@@ -50,7 +50,7 @@ depends on another at the wire level.
 
 Every protocol ships under the same canonical layout:
 `README.md / PROTOCOL.md / SPEC.md / WHY.md / SECURITY.md / CHANGELOG.md /
-LICENSE / test-vectors/ /examples/`. Specs are CC-BY-4.0; example code is MIT.
+LICENSE / test-vectors/ /examples/`. Specs and example code are MIT.
 
 | Repo                                                                                         | Spec for                                          |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -82,7 +82,7 @@ vector for the protocols it implements.
 | [**`oc-agent-web`**](https://github.com/orangecheck/oc-agent-web)                   | Reference app at agent.ochk.io.                                         |
 | [**`oc-pledge-web`**](https://github.com/orangecheck/oc-pledge-web)                 | Reference app at pledge.ochk.io.                                        |
 
-All code is MIT. Specs are CC-BY-4.0. Fork, re-implement, self-host — that's
+All code and every spec are MIT. Fork, re-implement, self-host — that's
 the point.
 
 ---
@@ -219,4 +219,4 @@ time, no enumerable identity namespace), it doesn't belong in this family.
 - **Building something on top?** [Get in touch](https://ochk.io/contact) —
   happy to wire up gate predicates, pledge resolution mechanisms, or
   custom integrations.
-- **Licensing.** Specs CC-BY-4.0 · Code MIT · No CLA.
+- **Licensing.** Specs MIT · Code MIT · No CLA.
